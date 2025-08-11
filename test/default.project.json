@@ -1,0 +1,15 @@
+{
+	"name": "test-roblox-rs-library",
+	"tree": {
+		"$className": "DataModel",
+
+		"ServerScriptService": {
+			"RS": {
+				"$path": "./server"
+			},
+			"Library": {
+				"$path": "../library"
+			}
+		}
+	}
+}
